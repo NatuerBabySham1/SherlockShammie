@@ -14,10 +14,10 @@
     <div id="dropzone">Drop image here babe or click to browse</div>
 <input type="file" id="imageInput" accept="image/*" style="display:none;">
 <img id="preview" width="300" style="display:none; margin-top:10px;">
-<p id="result">Loading model ... </p>p>
-<div id="progressContainer"><div id="progressBar"></div></div>
-</div>
- </section>
+<p id="result">Loading model ... </p>
+<div id="progressContainer"></div>
+
+
      </main>
 <script src="script.js"></script>
 </html>
