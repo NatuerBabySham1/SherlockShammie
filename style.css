@@ -21,6 +21,9 @@ Demo from PROG 102 Code
 .content {  
   max-width: 90%;
   margin: auto;
+ display: flex;
+      align-items: center;
+      justify-content: center;
  }
 
  /* Image Application Dropzone */
@@ -38,6 +41,8 @@ Demo from PROG 102 Code
       font-weight: bold;
       margin-bottom: 10px;
       cursor: pointer;
+     font-color: #FFFFFF;
+     
     }
 
     #dropzone.hover {
