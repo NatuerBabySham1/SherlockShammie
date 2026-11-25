@@ -10,7 +10,12 @@ Demo from PROG 102 Code
 
 /* HTML styles */
  body {
- background:  "C:\Users\smith86\Desktop\images.jpg" ;
+  
+  background-image : url("background.jpg")  ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
  }
 
 .content {  
