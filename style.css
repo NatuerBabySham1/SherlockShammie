@@ -30,8 +30,8 @@ Demo from PROG 102 Code
 
     #dropzone {
       width: 320px;
-      height: 240px;
-      border: 3px solid #000;
+      height: 340px;
+      border: 3px solid #A30B76;
       display: flex;
       align-items: center;
       justify-content: center;
